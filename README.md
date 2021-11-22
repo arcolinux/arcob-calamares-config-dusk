@@ -1,2 +1,2 @@
-# ArcoLinuxB-Dwm Calamares configuration
+# ArcoLinuxB-Dusk Calamares configuration
 
